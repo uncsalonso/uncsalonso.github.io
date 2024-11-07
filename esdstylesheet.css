@@ -13,7 +13,7 @@ header {
     top: 0;
     left: 0;
     right: 0;
-    text-align: center;
+    text-align: left;
 }
 
 .container {
@@ -37,7 +37,7 @@ header {
 .image7 { top: 730px; left: 40%; width: 180px; height: 250px; }
 
 .directory {
-    text-align: center;
+    text-align: left;
     margin: 20px;
     font-family: 'Times New Roman', Times, serif;
 }
@@ -46,7 +46,7 @@ header {
     color: #358adf;
     text-decoration: none;
     font-weight: bold;
-    margin: 0 15px; /* Adds horizontal spacing between links */
+    margin: 0 15px; 
 }
 
 .directory a:hover {
@@ -54,7 +54,7 @@ header {
 }
 
 .content {
-    background-color: #FFD54F; /* Sandy yellow */
+    background-color: #FFD54F; 
     padding: 10px;
     margin-top: 500px;
     border-radius: 8px;
@@ -63,7 +63,7 @@ header {
 }
 
 footer {
-    background-color: #0288D1; /* Ocean blue */
+    background-color: #0288D1; 
     color: white;
     padding: 20px;
     position: absolute;
